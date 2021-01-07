@@ -9,8 +9,8 @@ fig.suptitle(title +
                  "https://www.stat.ee")
 fig.set_figwidth(10)
 
-ax2.set_xlabel("Количество (цифра от 100 до 250)")
-ax2.set_ylabel("Описание (год)")
+ax2.set_xlabel("Количество ")
+ax2.set_ylabel("Описание ")
 
 
     # https://www.yuripetrov.ru/edu/python/ch_12_01.html#module-matplotlib
